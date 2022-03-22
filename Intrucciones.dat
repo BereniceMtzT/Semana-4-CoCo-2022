@@ -1,0 +1,17 @@
+# Intrucciones para poder correr los notebooks de la semana 4.
+
+1. Crear un ambiente 
+	conda create -n coco_seismic numpy pandas pathlib seaborn notebook 
+
+2. Acceder al ambiente
+	conda activate coco_seismic
+
+3. Instalar extensión
+	pip install "jupyterlab>=3" "ipywidgets>=7.6"
+
+
+3. Instalar la extensión de plotly
+	conda install -c conda-forge -c plotly jupyter-dash
+
+4. Correr jupyterlab
+	jupyter-lab
