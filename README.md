@@ -1,5 +1,5 @@
-# CoCo2022: Learning Exploratory Data Analysis with Seismic Data 
-_by [Berenice](https://github.com/BereniceMtzT) and [Mich](https://github.com/sainosmichelle)_
+# CoCo2022: Learning Exploratory Data Analysis with Seismic Data 🔎
+_[Mich](https://github.com/sainosmichelle) by [Berenice](https://github.com/BereniceMtzT)_
     
     
 ## About
