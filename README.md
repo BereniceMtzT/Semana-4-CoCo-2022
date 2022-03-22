@@ -1,5 +1,5 @@
 # CoCo2022: Learning Exploratory Data Analysis with Seismic Data 🔎
-_adapted from [this repo](https://github.com/sainosmichelle/sainosmichelle.github.io)_
+_Modified from [this repo](https://github.com/sainosmichelle/sainosmichelle.github.io)_
     
     
 ## About
