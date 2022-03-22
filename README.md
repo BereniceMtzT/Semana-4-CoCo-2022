@@ -1,10 +1,10 @@
 # CoCo2022: Learning Exploratory Data Analysis with Seismic Data 
-_by [Berenice](https://github.com/BereniceMtzT) annd [Mich](https://github.com/sainosmichelle)_
+_by [Berenice](https://github.com/BereniceMtzT) and [Mich](https://github.com/sainosmichelle)_
     
     
 ## About
 
-In this notebook we are going to learn how we can solve research questions using python, specifically the Plotly library.
+In this notebook we are going to learn how we can solve research questions using Python, specifically the Plotly library, this Notebook is part of the [crash course of data science for Geosciences] (https://github.com/sainosmichelle/sainosmichelle.github.io).
 
 In this example we will use historical seismic data. This database is a collection of more than 23,000 earthquakes in USA. It contains data from 1638 to 1985. The database includes information corresponding to the coordinates of  epicenter, magnitudes, focal depth, names, coordinates of reported cities, reported intensities and the distance from the city to the epicenter. More information on this dataset can be found at [Kaggle](https://www.kaggle.com/srijya/us-earthquake-intensity-database).
 
@@ -18,13 +18,12 @@ The idea is not to become experts in seismology, this topic will be a great excu
 
 ## Setup
 
-There two way to follow this tutorial:
+There two ways to follow this tutorial:
 
 - Use [JupyterHub](https://lab.openearthscape.org) where the notebook in this repository can be run
-- Or run the notebook in your computer.
+- Or run the notebook in your computer through Anaconda and/or Jupyter Lab.
 
-### Run it in your computer
-
+### Run it in your Anaconda Navigator Enviroment and/or Jupyter Lab
 The code is developed and tested using Python 3.x. You can use this notebook through the creation of an Anaconda enviroment.
 
 <h4>Anaconda enviroment installation</h4>
@@ -48,7 +47,7 @@ pip install "jupyterlab>=3" "ipywidgets>=7.6"
 ```
 conda install -c conda-forge -c plotly jupyter-dash
 ```
-<h4>Finally you can run jupyter lab in your enviromentand run the code</h4>
+<h4>Finally you can load jupyter lab in your enviroment and run the code or use it directly in a jupyter notebook</h4>
 
 ```
 jupyter-lab 
