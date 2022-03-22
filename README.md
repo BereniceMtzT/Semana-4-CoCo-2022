@@ -61,6 +61,3 @@ Clone this repository in you local enviroment, the data available in this notebo
 
 
 
-## License
-
-The full text of these licenses is provided in the LICENSE.txt file.
