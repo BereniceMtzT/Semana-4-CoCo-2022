@@ -4,7 +4,7 @@ _by [Berenice](https://github.com/BereniceMtzT) and [Mich](https://github.com/sa
     
 ## About
 
-In this notebook we are going to learn how we can solve research questions using Python, specifically the Plotly library, this Notebook is part of the [crash course of data science for Geosciences] (https://github.com/sainosmichelle/sainosmichelle.github.io).
+In this notebook we are going to learn how we can solve research questions using Python, specifically the Plotly library, this Notebook is part of the [crash course of data science for Geosciences](https://github.com/sainosmichelle/sainosmichelle.github.io).
 
 In this example we will use historical seismic data. This database is a collection of more than 23,000 earthquakes in USA. It contains data from 1638 to 1985. The database includes information corresponding to the coordinates of  epicenter, magnitudes, focal depth, names, coordinates of reported cities, reported intensities and the distance from the city to the epicenter. More information on this dataset can be found at [Kaggle](https://www.kaggle.com/srijya/us-earthquake-intensity-database).
 
