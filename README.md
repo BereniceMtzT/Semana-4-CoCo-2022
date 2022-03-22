@@ -49,15 +49,16 @@ pip install "jupyterlab>=3" "ipywidgets>=7.6"
 conda install -c conda-forge -c plotly jupyter-dash
 ```
 <h4>Finally you can run jupyter lab in your enviromentand run the code</h4>
+
 ```
 jupyter-lab 
 ```
 
 ## Run the code
 Clone this repository in you local enviroment, the data available in this notebook is from [Kaggle](https://www.kaggle.com/srijya/us-earthquake-intensity-database). The interactive maps should look like this:
-<img src="https://github.com/BereniceMtzT/Semana-4-CoCo-2022/img/img_seismic.jpeg"
+<img src="https://github.com/BereniceMtzT/Semana-4-CoCo-2022/blob/master/img/img_seismic.jpeg"
   width="800"
-  height="400">
+  height="300">
 
 
 
