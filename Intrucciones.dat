@@ -1,4 +1,4 @@
-# Intrucciones para poder correr los notebooks de la semana 4.
+# Intrucciones para poder correr los notebooks de la semana 4 en jupyterlab.
 
 1. Crear un ambiente 
 	conda create -n coco_seismic numpy pandas pathlib seaborn notebook 
